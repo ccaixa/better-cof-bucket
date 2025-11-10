@@ -1,2 +1,2 @@
-version:0.2
-latest:https://github.com/ccaixa/better-cof/releases/download/beta02/BetterCof.exe
+version:0.3
+latest:https://github.com/ccaixa/better-cof/releases/download/beta03/BetterCof.exe
